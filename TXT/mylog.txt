@@ -9,3 +9,8 @@ ZCZC W00 70 L10 Assignment #00
 ZCZC W00 110 L00 General, etc.
 ZCZC W00 120 L10 Assignment #00
 ZCZC W00 10 L05 Quiz related including studying
+ZCZC W01 220 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 10 L05 Quiz related including studying
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 240 L11 Assignment #01
