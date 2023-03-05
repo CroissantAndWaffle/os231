@@ -30,7 +30,7 @@ This article explains the types of encryption in Linux. It helps me understand h
 4. [7 Useful Linux Security Features and Tools for Beginners](https://www.tecmint.com/linux-security-features-and-tools/)
 This article provides an overview of some of the built-in security features in Linux. It also discusses how to use these tools to improve the security of your system.
 
-##W03
+## W03
 1. [Linux FIle System](https://youtu.be/HbgzrKJvDRw)<br> 
 This video explains what folders and directories exist in Linux and their uses. Of course it is useful to know the file system in Linux so that you can know which directory is used for a particular command.
 
