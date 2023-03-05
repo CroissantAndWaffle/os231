@@ -29,3 +29,16 @@ This article explains the types of encryption in Linux. It helps me understand h
 
 4. [7 Useful Linux Security Features and Tools for Beginners](https://www.tecmint.com/linux-security-features-and-tools/)
 This article provides an overview of some of the built-in security features in Linux. It also discusses how to use these tools to improve the security of your system.
+
+##W03
+1. [Linux FIle System](https://youtu.be/HbgzrKJvDRw)<br> 
+This video explains what folders and directories exist in Linux and their uses. Of course it is useful to know the file system in Linux so that you can know which directory is used for a particular command.
+
+2. [File System Commands](https://gist.github.com/khazeamo/f762f532bfbc17d5bf396e9d4c2a9586)<br>
+This link contains the commands used to access and do something about the file system in Linux.
+
+3. [File System Implementation](https://youtube.com/playlist?list=PLskQvPDUk0sKgGGReUz7nMwYkDTbevUC1)<br>
+This playlist will explain everything about file implementation in the operating system so that the process of the file system structure can be explored.
+
+4. [Fragmentation in Operating System](https://www.javatpoint.com/fragmentation-in-operating-system)<br>
+This link explains about one of the problems in the operating system that involves memory, namely fragmentation.
