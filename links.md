@@ -55,3 +55,15 @@ This link will provide an article containing details from the previous paging.
 
 4. [Address Mapping](https://schoettkr.github.io/knowledge-database/uni/os/06_lecture/)<br>
 This link will explain some of the variations of memory mapping that occur in operating systems. Of course this is related to the process of mapping logical addresses to physical address space.
+
+## W05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+An easy-to-understand explanation about virtual memory.
+
+2. [Demand Paging in Operating Systems](https://www.tutorialandexample.com/what-is-demand-paging)<br>
+This link helped me understand more about demand paging.
+
+3. [Page Replacement Algorithms in Operating System](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+A simple explanation about page replacement algorithms
+
