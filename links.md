@@ -97,3 +97,13 @@ This article will explain the deadlock process in the operating system. This pro
 
 4. [Deadlock](https://youtu.be/onkWXaXAgbY)(Video)<br>
 This video will further explain the concept of deadlock. Of course, to help understand the process, this video has examples of using the concept of deadlock in the real world so that it can visualize the concept in the field of operating systems.
+
+## W08
+1. [Learn OS Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)<br>
+This link helped understand more about scheduling
+
+2. [zlib-1.2.12.tar.xz	download](https://distfiles.macports.org/zlib/)<br>
+The download link from the LFS website doesn't work. Try this instead.
+
+3. [Priority Scheduling Algorithm: Preemptive, Non-Preemptive](https://www.guru99.com/priority-scheduling-program.html)<br>
+An easy-to-understand explanation about priority scheduling.
